@@ -13,5 +13,5 @@ Make sure you have a valid `~/.kube/config` file.
 ## Usage
 
 ```
-$ groovy 
+$ groovy ListNamespaces.groovy
 ```
